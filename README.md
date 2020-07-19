@@ -7,7 +7,7 @@ In this repository, we share the scripts used to analyse the transciption profil
 
 <br/>
 <p align="center">
-<img src='/Expression_Analysis/TNF-alpha-transcription.jpeg' height='300' width='400'><br/>
+<img src='/Expression_Analysis/Compressive_Force.png' height='300' width='400'><br/>
 </p>
 
 We also present scripts used for specific image processing tasks. 
